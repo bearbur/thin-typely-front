@@ -1,3 +1,9 @@
+#Build
+build
+
+#Idea
+.idea
+
 # Logs
 logs
 *.log
